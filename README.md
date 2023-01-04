@@ -1,4 +1,4 @@
 # Econ-os-
-A floppy disk based os.Ru it on linux.
+A floppy disk based os.Run it on linux.
 
 
